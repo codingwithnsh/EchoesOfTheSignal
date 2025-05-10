@@ -1,6 +1,7 @@
 # Echoes of the Signal — Extended Edition
 
 Welcome to the extended "Echoes of the Signal" sci-fi mystery thriller game. This README provides an overview and usage instructions so you can experience the narrative-driven exploration in a terminal-based or GUI-based format.
+This project took me around 3 months to make. Hope you enjoy it!
 
 ## Table of Contents
 1. [Overview](#overview)
